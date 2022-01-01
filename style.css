@@ -1,5 +1,34 @@
+
+header{
+  text-align: center;
+}
+figure {
+  display: center;
+  text-align: center;
+  margin: 5px;
+}
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+p#introduction{
+  text-align: center;
+  width: 700px;
+  margin: auto;
+}
+
+#details  {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+div {
+  float: left;
+  height: auto;
+  width: auto;
+  background: red;
+  padding: 0 80px;
 }
